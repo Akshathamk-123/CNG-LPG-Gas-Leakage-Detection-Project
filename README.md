@@ -75,7 +75,7 @@ The system should be able to detect gas leaks accurately and provide immediate v
 ## Images of the Project
 
 <p align="center">
-  <img src="image.png" alt="Project Image 1" width="700"/>
-  <img src="image-1.png" alt="Project Image 2" width="700"/>
-  <img src="image-2.png" alt="Project Image 3" width="700"/>
+  <img src="image.png" alt="Project Image 1" width="200"/>
+  <img src="image-1.png" alt="Project Image 2" width="200"/>
+  <img src="image-2.png" alt="Project Image 3" width="200"/>
 </p>
