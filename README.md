@@ -70,7 +70,7 @@ LPG and CNG are widely used as fuel sources in homes, vehicles, and various indu
    - Introduce a short delay between readings to stabilize the sensor output and prevent excessive serial output.
 
 **Expected Outcome:**
-The system should be able to detect gas leaks accurately and provide immediate visual and auditory alerts. The status messages displayed on the Serial Monitor will aid in real-time monitoring and troubleshooting. This project aims to enhance safety by providing an early warning system for LPG and CNG leaks, potentially preventing accidents and saving lives.
+The system should be able to detect gas leaks accurately and provide immediate visual and auditory alerts. The status messages displayed on the Serial Monitor will aid in real-time monitoring and troubleshooting. This project aims to significantly enhance safety by providing an early warning system for LPG and CNG leaks, potentially preventing accidents and saving lives.
 
 ## Images of the Project
 
